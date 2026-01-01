@@ -1,6 +1,6 @@
 # HR Analytics
 
-**Certificate Holder:** Subhash Chandra Shrivastava  
+**Certificate Holder:** Jahanvi Shrivastava  
 **Course Name:** HR Analytics  
 **Issued By:** Simplilearn  
 **Issued On:** 2nd November 2025
