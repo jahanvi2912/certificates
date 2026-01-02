@@ -1,82 +1,29 @@
-🎓 Certifications
+## 🎓 Certifications
 
-Below are my professional certifications related to Data Analytics, Business Analysis, SQL, and AI.
-Each certificate includes a downloadable copy and a credential verification link where available.
+### 📊 Business Analytics with Excel
+- 📄 [View Certificate](./business-analytics-excel/Business_Analytics_with_Excel_Certificate.pdf)
+- 📁 [Details & Skills](./business-analytics-excel/README.md)
 
-📊 Business Analytics with Excel
+### 👥 HR Analytics
+- 📄 [View Certificate](./hr-analytics/HR_Analytics_Certificate.pdf)
+- 📁 [Details & Skills](./hr-analytics/README.md)
 
-Issued by: simplilearn
+### 🤖 Generative AI
+- 📄 [View Certificate](./gen-ai/Gen_Ai_Certificate.pdf)
+- 📁 [Details & Skills](./gen-ai/README.md)
 
-Credential ID / Verification: (added inside folder README)
+### 📈 Microsoft Excel
+- 📄 [View Certificate](./ms-excel/MS_Excel_Certificate.pdf)
+- 📁 [Details & Skills](./ms-excel/README.md)
 
-📄 View Certificate
+### 📊 Power BI
+- 📄 [View Certificate](./power-bi/Power_BI_Certificate.pdf)
+- 📁 [Details & Skills](./power-bi/README.md)
 
-📁 Details & Skills
+### 🗄️ SQL
+- 📄 [View Certificate](./sql/SQL_Certificate.pdf)
+- 📁 [Details & Skills](./sql/README.md)
 
-👥 HR Analytics
-
-Issued by: Simplilearn
-
-Credential ID / Verification: (added inside folder README)
-
-📄 View Certificate
-
-📁 Details & Skills
-
-🤖 Generative AI
-
-Issued by: Outskill
-
-Credential ID / Verification: (added inside folder README)
-
-📄 View Certificate
-
-📁 Details & Skills
-
-📈 Microsoft Excel
-
-Issued by: Simplilearn
-
-Credential ID / Verification: (added inside folder README)
-
-📄 View Certificate
-
-📁 Details & Skills
-
-📊 Power BI
-
-Issued by: Simplilearn
-
-Credential ID / Verification: (added inside folder README)
-
-📄 View Certificate
-
-📁 Details & Skills
-
-🗄️ SQL
-
-Issued by: Simplilearn
-
-Credential ID / Verification: (added inside folder README)
-
-📄 View Certificate
-
-📁 Details & Skills
-
-🧠 AI Fundamentals
-
-Issued by: IBM
-
-Credential Verification: (IBM SkillsBuild URL inside folder README)
-
-📄 View Certificate
-
-📁 Details & Skills
-
-✅ Notes for Recruiters
-
-All certificates are verifiable via issuer credential links.
-
-Skills listed are supported by hands-on projects available on my GitHub profile.
-
-Certifications complement my work in SQL, Excel analytics, HR analytics, and AI fundamentals.
+### 🧠 IBM AI Fundamentals
+- 📄 [View Certificate](./ibm-ai-fundamentals/IBM_AI_Fundamentals_Certificate.pdf)
+- 📁 [Details & Skills](./ibm-ai-fundamentals/README.md)
