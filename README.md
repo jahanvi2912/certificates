@@ -30,5 +30,5 @@
 
 
 ### 🤖 Introduction to Large Language Models  
-- 📄 [View Certificate](./ibm-llm/IBM_SkillsBuild_Introduction_to_Large_Language_Models.png)  
+- 📄 [View Certificate](./ibm-llm/ibm-llm/IBM_SkillsBuild_Introduction_to_Large_Language_Models.png.png)  
 - 📁 [Details & Skills](./ibm-llm/README.md)
