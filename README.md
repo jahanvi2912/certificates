@@ -27,3 +27,8 @@
 ### 🧠 IBM AI Fundamentals
 - 📄 [View Certificate](./ibm-ai-fundamentals/IBM_AI_Fundamentals_Certificate.pdf)
 - 📁 [Details & Skills](./ibm-ai-fundamentals/README.md)
+
+
+### 🤖 Introduction to Large Language Models  
+- 📄 [View Certificate](./ibm-llm/IBM_SkillsBuild_Introduction_to_Large_Language_Models.png)  
+- 📁 [Details & Skills](./ibm-llm/README.md)
