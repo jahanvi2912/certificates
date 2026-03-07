@@ -24,7 +24,7 @@
 - 📄 [View Certificate](./sql/SQL_Certificate.pdf)
 - 📁 [Details & Skills](./sql/README.md)
 
-### 🧠 IBM AI Fundamentals
+### 💻 IBM AI Fundamentals
 - 📄 [View Certificate](./ibm-ai-fundamentals/IBM_AI_Fundamentals_Certificate.pdf)
 - 📁 [Details & Skills](./ibm-ai-fundamentals/README.md)
 
@@ -33,3 +33,6 @@
 - 📄 [View Certificate](./ibm-llm/IBM_SkillsBuild_Introduction_to_Large_Language_Models.png.png)  
 - 📁 [Details & Skills](./ibm-llm/README.md)
 
+### 🌐 Creating Compelling Reports (Cisco Networking Academy)
+- 📄 [View Certificate](./cisco/Creating_Compelling_Reports_Certificate.PNG)  
+- 📁 [Details & Skills](./cisco/README.md)
