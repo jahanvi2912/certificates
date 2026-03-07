@@ -19,7 +19,7 @@
 
 ## View Certificate
 
-[Download Certificate](creating-compelling-reports-certificate.png)
+[Download Certificate](cisco/Creating_Compelling_Reports_Certificate.PNG)
 
 ---
 
