@@ -25,4 +25,4 @@
 
 ## Badge
 
-![Cisco Badge](creating-compelling-reports-badge.png)
+![Cisco Badge](creating-compelling-reports_badge.png)
