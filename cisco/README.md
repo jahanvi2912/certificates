@@ -9,17 +9,17 @@
 
 ## Skills Covered
 
-- Explain the business value of creating compelling reports
-- Apply appropriate design choices for purpose, audience, and format
-- Apply contextual understanding to design a report
-- Select authoring decisions to support a compelling report
-- Determine appropriate responses for individual reporting scenarios
+- Business value of creating compelling reports
+- Report design for audience and purpose
+- Data storytelling
+- Selecting appropriate reporting tools
+- Decision-making for reporting scenarios
 
 ---
 
 ## View Certificate
 
-[Download Certificate](cisco/Creating_Compelling_Reports_Certificate.PNG)
+[Download Certificate](Creating_Compelling_Reports_Certificate.PNG)
 
 ---
 
