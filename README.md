@@ -36,3 +36,15 @@
 ### 🌐 Creating Compelling Reports (Cisco Networking Academy)
 - 📄 [View Certificate](./cisco/Creating_Compelling_Reports_Certificate.PNG)  
 - 📁 [Details & Skills](./cisco/README.md)
+
+## 🟢 Celonis Certifications
+
+### Celonis Foundations
+🏅 [View Badge](celonis/celonis-foundations-badge.png)  
+📄 [View Certificate](celonis/celonis-foundations-certificate.png.png)
+
+---
+
+### Process Mining: From Theory to Execution
+🏅 [View Badge](celonis/process-mining-badge.png.png)  
+📄 [View Certificate](celonis/process-mining-certificate.png.png)
