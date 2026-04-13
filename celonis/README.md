@@ -8,7 +8,7 @@ This folder contains my certifications and badges related to Celonis and Process
 
 ![Badge](celonis-foundations-badge.png)
 
-📄 [View Certificate](celonis-foundations-certificate.png)
+📄 [View Certificate](celonis-foundations-certificate.png.png)
 
 **Description:**  
 Gained foundational knowledge of Process Intelligence using Celonis, including process mining concepts, data analysis, and workflow optimization.
