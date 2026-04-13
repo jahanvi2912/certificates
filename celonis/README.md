@@ -17,9 +17,9 @@ Gained foundational knowledge of Process Intelligence using Celonis, including p
 
 ## Process Mining: From Theory to Execution
 
-![Badge](process-mining-badge.png)
+![Badge](process-mining-badge.png.png)
 
-📄 [View Certificate](process-mining-certificate.png)
+📄 [View Certificate](process-mining-certificate.png.png)
 
 **Description:**  
 Developed practical understanding of process mining techniques, event log analysis, and identifying inefficiencies to optimize business processes using Celonis tools.
