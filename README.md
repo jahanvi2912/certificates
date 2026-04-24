@@ -48,3 +48,10 @@
 ### Process Mining: From Theory to Execution
 🏅 [View Badge](celonis/process-mining-badge.png.png)  
 📄 [View Certificate](celonis/process-mining-certificate.png.png)
+
+## 🤖 Anthropic Certifications
+
+### AI Fluency: Framework & Foundations
+
+- [📄 View Certificate](./Anthropic/ai-fluency-framework-foundations-certificate.png)  
+- [📁 Details & Skills](./Anthropic/README.md)
