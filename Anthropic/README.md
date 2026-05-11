@@ -1,22 +1,32 @@
-# Anthropic Certifications
+# 🏅 Anthropic Certifications
 
-This folder contains certifications earned from Anthropic, showcasing foundational knowledge in Artificial Intelligence, responsible AI practices, and practical applications.
+This folder contains certifications I have completed from Anthropic and Anthropic Education in the areas of Generative AI, Prompt Engineering, and Large Language Models (LLMs).
 
-## Certificates
+---
 
-### AI Fluency: Framework & Foundations
-Issued by Anthropic in collaboration with:
-- University College Cork (UCC)
-- Ringling College of Art and Design
-- Higher Education Authority (HEA)
-- National Forum for the Enhancement of Teaching and Learning
+## 📜 AI Fluency: Framework & Foundations
+**Issued by:** Anthropic Education
 
-### Skills Covered
-- Artificial Intelligence Fundamentals  
-- Responsible and Ethical AI  
-- Prompt Engineering  
-- Generative AI Applications  
-- Claude for Practical Problem Solving  
+This certification provides a foundational understanding of artificial intelligence concepts, frameworks, and responsible AI practices.
 
-### Certificate
-![AI Fluency Certificate](ai-fluency-framework-foundations-certificate.png)
+![AI Fluency: Framework & Foundations](./ai-fluency-framework-foundations-certificate.png)
+
+---
+
+## 📜 Claude with Google Vertex AI
+**Issued by:** Anthropic
+
+This certification focuses on using Claude models with Google Vertex AI and covers prompt engineering, Generative AI concepts, AI model evaluation, and practical applications of Large Language Models (LLMs).
+
+![Claude with Google Vertex AI](./Claude-with-Google-Vertex-AI-Certificate.png)
+
+---
+
+## 🛠️ Skills Demonstrated
+- Generative AI
+- Prompt Engineering
+- Large Language Models (LLMs)
+- Google Vertex AI
+- AI Model Evaluation
+- AI Use Case Development
+- Responsible AI
