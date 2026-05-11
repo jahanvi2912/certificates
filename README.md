@@ -55,3 +55,27 @@
 
 - [📄 View Certificate](./Anthropic/ai-fluency-framework-foundations-certificate.png)  
 - [📁 Details & Skills](./Anthropic/README.md)
+
+### Claude with Google Vertex AI
+- 📄 [View Certificate](./Anthropic/Claude-with-Google-Vertex-AI-Certificate.png)
+- 📁 [Details & Skills](./Anthropic/README.md)
+
+---
+
+## 🛠️ Key Skills Demonstrated
+
+- Business Analysis
+- Data Analysis
+- SQL
+- Advanced Excel
+- Power BI
+- Dashboarding
+- Data Visualization
+- Statistical Modeling
+- Generative AI
+- Prompt Engineering
+- Large Language Models (LLMs)
+- Google Vertex AI
+- Process Mining
+- Analytical Thinking
+- Problem Solving
